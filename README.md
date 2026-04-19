@@ -1,8 +1,9 @@
+## JS Game Project
 A 2D side-scrolling platform game built using JavaScript and the p5.js library.
 
 ### Overview
 
-This project was developed as part of the University of London Programming course.  
+This project was developed as part of the University of London Programming I course.  
 The game features character movement, scrolling background, enemies, collectibles, and win/lose conditions.
 
 ### Features
@@ -33,7 +34,6 @@ The game features character movement, scrolling background, enemies, collectible
 ### How to Run
 
 1. Download or clone the repository  
-
 2. Open "index.html" in your browser  
 
 
@@ -42,8 +42,5 @@ The game features character movement, scrolling background, enemies, collectible
 - Add more levels
 - Improve enemy collision/effects 
 - Add animations
-
-\- Add scoring UI improvements
-
-\- Mobile support
-
+- Add scoring UI improvements
+- Mobile support
